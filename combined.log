@@ -1,0 +1,29 @@
+{"level":"error","message":"Error deleting user with id 626c1db756ca795a1767fd37","service":"deleteOneResourceById","trace":"ObjectParameterError: Parameter \"filter\" to deleteOne() must be an object, got 626c1db756ca795a1767fd37"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"Error deleting user with id 626c1db756ca795a1767fd37","service":"deleteOneResourceById","trace":"ObjectParameterError: Parameter \"filter\" to deleteOne() must be an object, got 626c1db756ca795a1767fd37"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"Error deleting user with id 626c1db756ca795a1767fd37","service":"deleteOneResourceById","trace":"ObjectParameterError: Parameter \"filter\" to deleteOne() must be an object, got 626c1db756ca795a1767fd37"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"Error deleting user with id ","service":"deleteOneResourceById","trace":"no user id provided"}
+{"level":"error","message":"Error deleting user with id 123","service":"deleteOneResourceById","trace":"(0 , deleteOneResourceById_1.deleteOneResourceById)(...) is not a function"}
+{"level":"error","message":"Error deleting user with id ","service":"deleteOneResourceById","trace":"no user id provided"}
+{"level":"error","message":"Error deleting user with id 123","service":"deleteOneResourceById","trace":"(0 , deleteOneResourceById_1.deleteOneResourceById)(...) is not a function"}
+{"level":"error","message":"Error deleting user with id ","service":"deleteOneResourceById","trace":"No user id provided"}
+{"level":"error","message":"Error deleting user with id 123","service":"deleteOneResourceById","trace":"(0 , deleteOneResourceById_1.deleteOneResourceById)(...) is not a function"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"error","service":"user-service"}
+{"level":"error","message":"error getting user with id 626b1b08de8a96956dcc124","service":"getOneUserByIdService","trace":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer"}
+{"level":"error","message":"error getting user with id 626b1b08de8a96956dcc124as","service":"getOneUserByIdService","trace":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer"}
+{"level":"error","message":"error getting user with id 626b1b08de8a96956dcc124as","service":"getOneUserByIdService","trace":"Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
+{"fn":"bodyRequestValidator","instance":"middlewares schema validation","level":"error","message":"error validating body request title list is required","service":"user-service","trace":"title list is required"}
+{"fn":"bodyRequestValidator","instance":"middlewares schema validation","level":"error","message":"error validating body request title list is required","service":"user-service","trace":"title list is required"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
+{"level":"error","message":"error getting user with id 3241","service":"getOneUserByIdService","trace":"Cannot read properties of null (reading '0')"}
